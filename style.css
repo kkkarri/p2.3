@@ -1,0 +1,35 @@
+.body {
+    background: mediumseagreen ;
+    padding: 15px 30px 15px 30px;
+}
+
+.wrapper {
+    background: mediumseagreen;
+    display: grid;
+    grid-auto-flow: dense;
+
+}
+.logo{
+    text-align: center;
+    background: palegreen;
+    padding: 40px 60px;
+    font-size: 20px;
+}
+.sidebar{
+    background: palegreen;
+    padding: 40px 60px;
+    box-sizing: border-box;
+    width: 800px;
+}
+.contacts{
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 24px;
+}
+.main-text{
+    font-size: 20px;
+}
+.par{
+    font-size: 25px;
+}
